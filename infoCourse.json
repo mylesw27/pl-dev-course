@@ -1,7 +1,7 @@
 {
     "uuid": "289d017a-ad22-4e08-91b7-79493215fd98",
     "name": "DEV101",
-    "title": "pl_dev_course",
+    "title": "pldevcourse",
     "options": {
         "useNewQuestionRenderer": true
     },
