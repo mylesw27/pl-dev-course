@@ -7,5 +7,6 @@
     },
     "tags": [],
     "topics": [],
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "comments": "This is a test course for testing local development"
 }
