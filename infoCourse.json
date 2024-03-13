@@ -1,12 +1,12 @@
 {
     "uuid": "289d017a-ad22-4e08-91b7-79493215fd98",
-    "name": "DEV 103",
+    "name": "DEV 101",
     "title": "PL Dev Course",
     "options": {
         "useNewQuestionRenderer": true
     },
     "tags": [],
     "topics": [],
-    "timezone": "America/Los_Angeles",
+    "timezone": "America/Phoenix",
     "comments": "This is a test course for testing local development"
 }
